@@ -1,1 +1,0 @@
-Oi, esse é o meu primeiro arquivo que irei subir para o git.
